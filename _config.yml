@@ -9,11 +9,11 @@ colocated_title: "SPLASH2020"
 logo_height: "30px"
 nth_plateau: "11th"
 location: "Online Edition!"
-workshop_date: "November 2020"
+workshop_date: "Friday November 20, 2020"
 submission_date: "September 12, 2020"
 submission_site: "https://easychair.org/conferences/?conf=plateau2020"
 # room_number_or_description: 
-# registration_site: 
+# registration_site: https://regmaster.com/2020conf/SPLASH20/register.php
 
 organizers:
   - name: Sarah E. Chasins
